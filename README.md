@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JanekWojtczak
-- 🌱 I’m currently learning JS,React,CSS
+- 🌱 I’m currently learning JS,,CSS,HTML 
 - 📫 How to reach me --> janwojtczak1234@gmail.com
 
 <!---
